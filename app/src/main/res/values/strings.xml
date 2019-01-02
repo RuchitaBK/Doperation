@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rcenterprise</string>
+    <string name="open_Drawer">Open Drawer </string>
+    <string name="close_Drawer">Close Drawer </string>
+</resources>
