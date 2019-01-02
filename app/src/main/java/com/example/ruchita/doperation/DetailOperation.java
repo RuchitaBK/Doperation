@@ -124,7 +124,7 @@ public void check_details()
 
 
 
-
+// checking validation
         if (receiver_name_ip.isEmpty() || receiver_name_ip.length() < 3)
         {
             receiver_name.setError("at least 3 characters");
